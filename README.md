@@ -22,12 +22,13 @@ import numpy as np
 a=np.array([[1,3],[2,5]])
 b=np.array([5,-3])
 c=np.linalg.solve(a,b)
-print(c)
-```
-## Output:
-```
 
+```
+##  Output:
+
+![alt text](<Screenshot 2025-03-02 134939.png>)
 
 ## Result: 
+
 Thus the solutions for the linear equations are successfully solved using python program
 
